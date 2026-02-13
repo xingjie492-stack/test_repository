@@ -1,3 +1,5 @@
 これはリモートリポジトリに作成された、テスト用ファイルです。
 branch develop_1で行の追加を行いました。
 branch develop_1でさらに行の追加を行いました。
+branch mainで"必要な行"を追加しました。
+branch mainで"不要な行"を追加しました。
